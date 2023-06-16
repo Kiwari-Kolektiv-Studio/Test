@@ -3,7 +3,7 @@
 .formatVersion = 3;
 DisplayStrings = (
 I,
-ioT
+ioTh
 );
 date = "2023-06-16 02:52:43 +0000";
 familyName = "New Font";
@@ -400,9 +400,21 @@ unicode = 103;
 },
 {
 glyphname = h;
+lastChange = "2023-06-16 03:13:40 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(129,257,l),
+(374,257,l),
+(374,466,l),
+(129,466,l)
+);
+}
+);
 width = 600;
 }
 );
